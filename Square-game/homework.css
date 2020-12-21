@@ -1,0 +1,22 @@
+div.figura {
+    display: block;
+}
+
+div.select{
+    margin-bottom: 10px;
+}
+
+div.input {
+    margin-bottom: 20px;
+}
+
+input{
+    margin-bottom: 10px;
+}
+
+
+div.circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
